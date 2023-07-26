@@ -1,6 +1,6 @@
 <h1>Projeto Ponte Warren</h1>
 <br>
-Preparado por: Gabriel<br> João Angeloni<br> Igor<br> Vera<br>26/07/2023
+Preparado por: Gabriel<br> João Angeloni<br> Igor<br> Vera<br>26/07/2023<br>
 
 <p>O projeto será desenvolvido pelos alunos do senai do curso desenvolvimentos de sistemas, cujo o objetivo do projeto
 será desenvolver uma ponte com palitos de sorvetes, serão colados com cola de madeira.</p>
