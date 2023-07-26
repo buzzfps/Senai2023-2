@@ -19,13 +19,11 @@ será desenvolver uma ponte com palitos de sorvetes, serão colados com cola de 
 e cola. A construção da ponte deverá ser precedida da análise estrutural de algumas
 opções possíveis de tipos de pontes. </p>
 
-<p><b>requisitos</b></p>
-
-<p>Para a construção, foram utilizados 338 palitos de picolé e cola de madeira. O
-será de 96cm, altura de 11,5cm e largura de 13,5cm.</p>
+<p><b>Requisitos</b></p>
 
 <p>Decidiu-se por construira ponte com palitos de picolé do tipo Warren 
-Modificada utilizando barras constituídas por 3 palitos colados.</p>
+Modificada utilizando barras constituídas por 3 palitos colados.Cada triângulo apresentava uma barra vertical 
+que ligava o ponto médio da base até o vértice mais alto desta. Para a construção, foram utilizados 338 palitos de picolé e cola de madeira. O
+será de 96cm, altura de 11,5cm e largura de 13,5cm.</p>
 
-<p>Cada triângulo apresentava uma barra vertical que ligava o ponto médio da base
-até o vértice mais alto desta.</p>
+
